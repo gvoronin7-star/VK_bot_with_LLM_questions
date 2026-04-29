@@ -43,9 +43,6 @@ bot.log
 # Data files
 data/context.json
 
-# Reports
-REPORT.md
-
 # OS
 .DS_Store
 Thumbs.db
